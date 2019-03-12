@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2EB4A3E6-3723-4F4A-880E-3B5B32419122}|Default">
+  <MonoDevelop.Ide.ItemProperties.NavApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavApp/FifthPage.xaml.cs">
+    <Files>
+      <File FileName="NavApp/ThirdPage.xaml" Line="5" Column="4" />
+      <File FileName="NavApp/ThirdPage.xaml.cs" Line="10" Column="9" />
+      <File FileName="NavApp/FourPage.xaml" Line="7" Column="24" />
+      <File FileName="NavApp/FourPage.xaml.cs" Line="17" Column="38" />
+      <File FileName="NavApp/FifthPage.xaml" Line="6" Column="1" />
+      <File FileName="NavApp/FifthPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NavApp" expanded="True">
+            <Node name="NavApp" expanded="True">
+              <Node name="FifthPage.xaml" expanded="True">
+                <Node name="FifthPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="FourPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SecondPage.xaml" expanded="True" />
+              <Node name="ThirdPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavApp.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.NavApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

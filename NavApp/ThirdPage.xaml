@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavApp.ThirdPage">
+    <StackLayout>
+        
+    <Label Text="Terceira Tela"
+               FontSize="50"
+               TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               />
+        
+    <StackLayout HorizontalOptions="Center"
+                     Orientation="Horizontal"
+                  >
+        
+         <Button Text="Tela Anteior"
+                WidthRequest="100"
+                HeightRequest="60"
+                HorizontalOptions="Start"
+                VerticalOptions="End"
+                Clicked="VoltarTela"
+                
+                />
+        
+        <Button Text="Proxima Tela"
+                WidthRequest="100"
+                HeightRequest="60"
+                HorizontalOptions="Start"
+                VerticalOptions="End"
+                Clicked="ProximaTela"
+               
+               />
+     </StackLayout>
+  </StackLayout>  
+</ContentPage>
